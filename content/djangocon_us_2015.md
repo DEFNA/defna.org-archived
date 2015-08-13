@@ -8,5 +8,5 @@ DEFNA is delighted to announce the first event it will be involved with is [Djan
 As part of our involvement DEFNA members hold the following positions:
 
 * Jeff Triplett - Conference Chair
-* Stacey Haylser - Venue Liaison
+* Stacey Haysler - Venue Liaison
 * Craig Bruce - Treasurer

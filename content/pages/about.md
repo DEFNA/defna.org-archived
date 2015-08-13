@@ -22,7 +22,7 @@ In his spare time, he practices photography and is getting back into running.
 
 <br/><br/>
 
-### Corporate Secretary - Stacey Haylser
+### Corporate Secretary - Stacey Haysler
 
 <img style="float: right; height: auto; width: auto; max-width: 150px;" src="{filename}/images/29ndq9e.png">
 
